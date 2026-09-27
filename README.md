@@ -2,9 +2,9 @@
 
 ### Frontend Developer 💻
 
-I’m a Frontend Developer focused on building clean, responsive, and user-friendly web experiences.
+I’m a Frontend Developer who enjoys turning ideas into clean, responsive, and interactive web experiences.
 
-I enjoy turning ideas into interactive interfaces and continuously improving my skills through real-world projects and hands-on practice.
+I like understanding how things work under the hood, building projects from scratch, and improving through real-world practice.
 
 ---
 
@@ -12,10 +12,9 @@ I enjoy turning ideas into interactive interfaces and continuously improving my 
 
 * 💻 Frontend Developer
 * 🌐 Focused on modern web development
-* ⚛️ Currently learning and building with React
-* 🧠 Strengthening my JavaScript fundamentals
+* ⚛️ Currently learning React and building projects with it
 * 📱 Interested in responsive and accessible UI
-* 🔧 Comfortable with Git & GitHub
+* 🔧 Experienced with Git & GitHub
 * 🎯 Interested in freelance and remote opportunities
 
 ---
@@ -39,9 +38,9 @@ I enjoy turning ideas into interactive interfaces and continuously improving my 
 ## 📚 Currently Learning
 
 ```text
-JavaScript
-   ↓
 React
+   ↓
+Building Real Projects
    ↓
 Modern Frontend Development
 ```
@@ -54,41 +53,64 @@ Currently focusing on:
 * Hooks
 * Conditional Rendering
 * Rendering Lists
-* Modern JavaScript
-* Building reusable UI components
+* Reusable Components
+* Modern React Patterns
 
 ---
 
 ## 💻 Featured Projects
 
-### 👤 User Management Admin Panel
+### 🌐 [VinaWeb](https://github.com/itsmahyar-dev/VinaWeb)
 
-A frontend user management application with authentication, user profiles, admin controls and CRUD functionality.
+A modern corporate website built with HTML, CSS, and JavaScript, featuring a responsive and user-friendly design.
+
+**Tech:** HTML · CSS · JavaScript
+
+---
+
+### 🛒 [VinaShop](https://github.com/itsmahyar-dev/VinaShop)
+
+A modern e-commerce frontend website built with HTML, CSS, and JavaScript, focused on responsive design and a clean shopping experience.
+
+**Tech:** HTML · CSS · JavaScript
+
+---
+
+### 🎵 [Music Player](https://github.com/itsmahyar-dev/Music-Player)
+
+A modern and responsive music player built from scratch using HTML, CSS, and vanilla JavaScript.
+
+**Tech:** HTML · CSS · JavaScript
+
+---
+
+### 🕐 [Pastel Glass Clock](https://github.com/itsmahyar-dev/Pastel-Glass-Clock-)
+
+A responsive glassmorphism clock built with HTML, CSS, and JavaScript, featuring animated analog hands and a real-time digital display.
+
+**Tech:** HTML · CSS · JavaScript
+
+---
+
+### 👤 [User Management Admin Panel](https://github.com/itsmahyar-dev/user-management-admin-panel)
+
+A responsive user management admin panel built with HTML, CSS, JavaScript, and JSON Server.
 
 **Tech:** HTML · CSS · JavaScript · JSON Server
 
 ---
 
-### 🔍 Product Search
+### 🌫️ [Into The Fog](https://github.com/itsmahyar-dev/Into-The-Fog)
 
-A responsive product-search interface built while practicing JavaScript, API requests and dynamic rendering.
+A cinematic nature landing page featuring smooth parallax effects and a responsive design.
 
-**Tech:** HTML · CSS · JavaScript · REST API
-
----
-
-### 🎨 Frontend Practice Projects
-
-A collection of smaller projects created to strengthen my frontend fundamentals.
-
-**Topics:**
-CSS Animations · Flexbox · Grid · JavaScript DOM · LocalStorage · APIs · Responsive Design
+**Tech:** HTML · CSS · JavaScript
 
 ---
 
 ## 📈 GitHub Activity
 
-I’m continuously building projects, practicing new concepts, and improving my development skills.
+I’m constantly building, experimenting, and turning new concepts into working projects.
 
 ---
 
@@ -102,6 +124,6 @@ I’m continuously building projects, practicing new concepts, and improving my 
 
 ---
 
-### ⚡ Keep Learning. Keep Building. Keep Improving.
+### ⚡ I don't just write code. I like figuring out why it works.
 
-> “Code is not just about writing lines — it's about solving problems.”
+> Building, breaking, fixing, and learning — that's where the fun is.
